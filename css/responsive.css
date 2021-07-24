@@ -1,0 +1,492 @@
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 992px){
+
+    header nav .first-nav {
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.msg .up .text {
+    
+    margin: 0;
+    
+}
+
+
+
+
+
+nav .logo {
+    
+    width: 100%;
+}
+
+       header .msg {
+    display: block;
+    }
+
+
+
+    header .msg .up{
+        flex-basis: 100%;
+        text-align: center;
+        margin: auto;
+        
+    }
+
+
+
+    header .msg .up .paragraph {
+    max-width: 100%;
+    
+}
+
+
+.msg .up .buttons .btn-1 {
+    
+    padding: 2% 4%;
+    margin: 15px 0;
+}
+  
+.msg .up .buttons .btn-2 {
+ 
+    margin: 15px 0;
+}
+
+
+
+header .msg .cases {
+    display: flex;
+    flex-direction: column;
+}
+
+
+header .msg .cases .nombers {
+    margin: 5px 0;
+    text-align: center;
+    
+}
+header .msg .updates {
+    
+    font-size: 18px;
+}
+
+
+
+
+     header .msg .up .text h1{
+        margin: auto;
+    
+    }
+
+
+
+    header .msg .up .text .text-child{
+        justify-content: flex-start;
+    
+    }
+    
+
+
+    main section .sec1 {
+        flex-direction: column;
+    }
+
+
+
+
+
+    main section .sec1 .left{
+        text-align: center;
+    }
+    
+
+
+    main section .sec1 .left .left-blue{
+        font-size: 38px;
+    }
+
+
+main section .sec1 .left h4 span {
+    
+    font-size: 19px;
+}
+
+
+    main section .sec1 .left h2 {
+    font-size: 26px;
+}
+
+
+    main section .sec1 .left p {
+    max-width: 100%;
+    font-size: 20px;
+    line-height: 1.7;
+    padding: 7px 0;
+}
+
+    .second-nav {
+    
+    justify-content: space-evenly;
+    
+}
+
+header .list ul {
+    
+    display: none;
+}
+
+.second-nav .drop{
+    display: block;
+    flex-basis: 42%;
+    font-size: 32px;
+    color: var(--pale-blue);
+
+}
+
+
+
+main .sec2 .top h4 {
+    
+    font-size: 26px;
+}
+main .sec2 .top h2 {
+    
+    font-size: 35px;
+}
+
+    main section .sec2 .top p {
+    padding: 0 ;
+    font-size: 42px;
+}
+
+main section .transmission-ways {
+
+    flex-direction: column;
+    font-size: 37px;
+}
+main section .transmission-ways .way h3 {
+    
+    font-size: 28px;
+    text-align: center;
+}
+
+
+
+
+main section .transmission-ways .way p{
+    
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
+.sec2-btn button {
+    padding: 7% 5%;
+    margin: 7% 3%;
+    text-transform: uppercase;
+    font-size: 15px;
+    
+}
+
+
+.sec3 {
+    
+    margin: 8% 0;
+    padding: 6% 0;
+    font-size: 35px;
+}
+
+
+.sec3 .top p {
+    padding: 0%;
+    font-size: 20px;
+}
+
+
+.sec3 .top h4 {
+    
+    margin: 15px 0px;
+    font-size: 18px;
+}
+.sec3 .top h2 {
+    
+    font-size: 22px;
+}
+
+
+main section .symptoms {
+    
+    flex-direction: column;
+}
+
+main section .symptoms .symp-1 p  {
+    
+    font-size: 22px;
+    text-align: left;
+    margin: 5% 0;
+}
+
+main section .container .sec3-down {
+    
+    flex-direction: column;
+
+
+
+}
+
+
+main section .sec3-down .sec3-left .left-part {
+    
+    flex-direction: column;
+    align-items: center;
+    font-size: 33px;
+    
+}
+
+
+main section .sec3-down .sec3-left .left-part p {
+    
+    padding-right: 0%;
+    font-size: 19px;
+}
+
+main section .sec3-down .sec3-left .left-part svg {
+    margin-right: 0px;
+    font-size: 90px;
+   margin-bottom: 18px;
+}
+
+main section .sec3-down .sec3-right button {
+    
+    padding: 6% 12%;
+    margin: 5%;
+    
+    font-size: 16px;
+    
+}
+main section .symptoms .symp-1 .box img {
+    max-width: 35%;
+    top: 0%;
+}
+
+.box h4 {
+    color: var(--pale-blue);
+    font-size: 23px;
+    
+}
+
+.sec4 {
+   
+    font-size: 20px;
+}
+
+.sec4 .top h4 {
+    color: var(--pale-blue);
+    text-transform: uppercase;
+    margin-top: 5px;
+    font-size: 35px;
+}
+
+.sec4 .top h2 {
+    
+    font-size: 40px;
+}
+
+.sec4 .top p {
+    padding: 0%;
+    font-size: 26px;
+    line-height: 1.7;
+}
+
+main section .advice {
+   
+    flex-direction: column;
+}
+
+main section .advice .advice-1 .advice-box h4 {
+   
+    font-size: 27px;
+}
+
+.sec4-buttons {
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.sec4-buttons .sec4-btn1 {
+    
+    padding: 4% 0%;
+    
+    font-size: 20px;
+    
+    margin: 20px 0;
+}
+
+.sec4-buttons .sec4-btn2 {
+    
+    font-size: 20px;
+    margin-left: 0%;
+}
+
+section .protection {
+    
+    padding: 3% 0;
+    flex-direction: column;
+}
+
+section .protection h1 {
+    
+    margin-bottom: 4%;
+    font-size: 28px;
+    text-align: center;
+}
+
+section .protection p {
+    margin: 1% 0;
+    font-size: 19px;
+    padding: 2px 19px;
+}
+
+section .protection .protiction-img img {
+    max-width: 100%;
+}
+/* sjdjsajdsjsjjjjjjjjjjjjjjjjjjjjjj
+sjddddddddddddddddddddddddddddd
+sddddddddddddddddddddddddsd
+sddddddddddddddddddddddddddd */
+.sec5 .steps-ways h2 {
+    
+    padding-bottom: 6%;
+    font-size: 34px;
+}
+
+.sec5 .wash-hands .wash-steps {
+
+    flex-basis: 50%;
+    font-size: 25px;
+}
+
+.sec5 .steps-ways .sec5-btn {
+    
+    font-size: 30px;
+    margin-left: 0%;
+    
+}
+
+.sec5 .wash-hands {
+    
+    flex-wrap: wrap;
+}
+
+.sec5 .wash-hands img {
+    
+    max-width: 85%;
+    padding-bottom: 10%;
+}
+
+.sec6 .stay-safe {
+    
+    flex-direction: column;
+}
+
+.sec6 .stay-safe .stay-safe1 {
+   
+    font-size: 35px;
+}
+
+.sec6 .stay-safe .stay-safe2 {
+   
+    font-size: 41px;
+}
+
+.sec6 .stay-safe .stay-safe2 h5 {
+    
+    font-size: 35px;
+    padding: 2% 0;
+    text-align: center;
+}
+
+.sec6 .stay-safe .stay-safe2 ul li {
+   
+    font-size: 50px;
+    margin-bottom: 3%;
+}
+
+.sec8 .sec8-text {
+    font-size: 44px;
+}
+
+.sec8 .sec8-parent {
+   
+    flex-direction: column;
+}
+
+
+
+}
+
+
+
+
+
+
+/* 
+@media (min-width: 768px) , (max-width: 992px) {
+    .sec5 .steps-ways h2 {
+    
+    padding-bottom: 6%;
+    font-size: 34px;
+}
+
+.sec5 .wash-hands .wash-steps {
+
+    flex-basis: 30%;
+    font-size: 25px;
+}
+
+.sec5 .steps-ways .sec5-btn {
+    
+    font-size: 30px;
+    margin-left: 0%;
+    
+}
+
+.sec5 .wash-hands {
+    
+    flex-wrap: wrap;
+}
+
+.sec5 .wash-hands img {
+    
+    max-width: 85%;
+    padding-bottom: 10%;
+}
+
+} */
